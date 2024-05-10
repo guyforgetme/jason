@@ -28,7 +28,7 @@
             "step": "installTheme",
             "themeZipFile": {
                 "resource": "url",
-                "url": "https://github.com/guyforgetme/jason/raw/main/furikake.zip"
+                "url": "https://github.com/guyforgetme/jason/releases/download/1.0/furikake.zip"
             }
         }
 	]
